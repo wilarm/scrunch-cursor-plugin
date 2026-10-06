@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "scrunch": {
+      "url": "https://app.scrunchai.com/api/mcp",
+      "auth": {
+        "scopes": ["profile", "email", "offline_access"]
+      }
+    }
+  }
+}

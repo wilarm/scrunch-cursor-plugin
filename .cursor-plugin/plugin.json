@@ -1,0 +1,40 @@
+{
+  "name": "scrunch",
+  "displayName": "Scrunch",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Track how AI platforms mention, rank, and cite your brand.",
+  "author": {
+    "name": "Scrunch",
+    "email": "support@scrunchai.com"
+  },
+  "homepage": "https://developers.scrunch.com/mcp/overview",
+  "repository": "https://github.com/wilarm/scrunch-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "scrunch",
+    "mcp",
+    "aeo",
+    "geo",
+    "ai-visibility",
+    "ai-search",
+    "share-of-voice",
+    "citations",
+    "sentiment",
+    "competitive-intelligence",
+    "marketing",
+    "analytics"
+  ],
+  "category": "integrations",
+  "tags": [
+    "scrunch",
+    "mcp",
+    "analytics",
+    "aeo"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
