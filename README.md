@@ -1,5 +1,7 @@
 # Scrunch
 
+Optimize your brand for AI search: monitor how AI talks about you, and close the gaps.
+
 Cursor plugin that connects agents to [Scrunch](https://scrunch.com) through Scrunch's official hosted [Model Context Protocol](https://modelcontextprotocol.io/) server.
 
 See how AI platforms such as ChatGPT, Claude, Perplexity, Gemini, Google AI Overviews, Google AI Mode, Microsoft Copilot, Meta, and Grok mention, rank, and cite your brand and your competitors. You can also read the raw AI responses, see the changes Scrunch's nightly signal detection finds, build Scrunch Explorer charts and dashboards, and manage brands, competitors, personas, and prompts, all from chat.

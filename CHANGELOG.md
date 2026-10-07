@@ -8,3 +8,4 @@ All notable changes to this plugin will be documented here.
 - Auth is OAuth with Dynamic Client Registration. Scopes pinned to `profile`, `email`, `offline_access` (Scrunch's sign-in flow does not grant `openid`).
 - Logo: Scrunch's official mark (black octagon and star on light blue), `assets/logo.png`, 512×512.
 - Added skills: `scrunch-visibility-report`, `scrunch-competitor-share-of-voice`, `scrunch-citation-gaps`.
+- Plugin description: "Optimize your brand for AI search: monitor how AI talks about you, and close the gaps."
